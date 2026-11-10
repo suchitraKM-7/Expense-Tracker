@@ -133,6 +133,11 @@ mongodb://127.0.0.1:27017/expense_tracker
 | PUT | `/api/expenses/:id` | Update an expense |
 | DELETE | `/api/expenses/:id` | Delete an expense |
 
+## 📸 Application Screenshots
+
+### Dashboard Overview
+
+![Expense Tracker Dashboard](screenshots/dashboard.png)
 ## 🎯 Project Objective
 
 The main objective of this project is to develop a simple and efficient expense management application that helps users record, organize, and monitor their daily spending.
