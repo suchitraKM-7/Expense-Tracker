@@ -137,7 +137,7 @@ mongodb://127.0.0.1:27017/expense_tracker
 
 ### Dashboard Overview
 
-![Expense Tracker Dashboard](screenshots/dashboard.png)
+![Expense Tracker Dashboard](screenshot/dashboard.png)
 ## 🎯 Project Objective
 
 The main objective of this project is to develop a simple and efficient expense management application that helps users record, organize, and monitor their daily spending.
